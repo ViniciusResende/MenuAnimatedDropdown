@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="Vinicius-logo" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1616436754/Portfolio/ViniciusLogo_nyjgdj.png" width="300px" />
+</h1>
+<p align= "center">:page_with_curl: An repository that was made with the porpouse of being a menu for a website that have an animated dropdown with a beautiful and smooth transition. </p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> 
+	:construction:  Stripe Menu Clone with ReactJS :rocket: | | Concluded  :construction:
+</h4>
 
-## Available Scripts
+<p align="center">
+  <a href="#desktop_computer-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout-of-the-application">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-launching-the-app">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#raising_hand_man-developer">Developer</a>
+</p>
 
-In the project directory, you can run:
+</br>
+</br>
 
-### `yarn start`
+## :desktop_computer: About the project:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+:comet:  Stripe Menu Clone - The project was made visioning to be a clone of the Stripe web menu, appling all these visual functionalities, animations, logic and some icons.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+:rocket: Is an application that intend to develop my skills with React, React Hooks, styled-components e Framer Motion developing an Application to put the knowledge in practice. 
 
-### `yarn test`
+:chart_with_upwards_trend: The project was an essential opportunity to develop skills with [ReactJS](https://reactjs.org/), [Framer Motion](https://www.framer.com/motion/) and [styled-components](https://styled-components.com/).  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</br>
 
-### `yarn build`
+## :art: Layout of the Application:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img alt="slack-clone" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1618338169/TwitterClone/MenuDropdown_veipee.gif"> 
+ 
+</br>
+</br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :rocket: Launching the App:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The application only has a menu of a frontend page:
 
-### `yarn eject`
+:bulb: But, is required that you use a server to have a most flowable experience.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Pre requirements
+#### Before start, you should need have installed in your computer those following tools:
+<img align="center" alt="GIT" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;">  [Git](https://git-scm.com)</img>
+</br>
+<img align="center" alt="NodeJS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"> [Node.js](https://nodejs.org/en/) (To manage the project modules)</img>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### It is also recommended a good code editor, for example: 
+<img align="center" alt="VisualStudioCode" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> [VSCode](https://code.visualstudio.com/)</img>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+</br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### :gear: Starting the App:
 
-## Learn More
+ ```bash
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ # Clone the Repository
+ $ git clone https://github.com/ViniciusResende/MenuAnimatedDropdown.git
+ 
+ # Enter the poject folder in the Terminal
+ $ cd MenuAnimatedDropdown
+ 
+ # Install all the dependencies
+ $ npm install
+  or
+ $ yarn install
+ 
+ # Execute the appliction with this command
+ $ npm start
+  or
+ $ yarn start
+ 
+ # The server will start in the port:3000
+ 
+ ```
+ 
+ ---
+ 
+## :man_technologist: Used Technologies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Those following tools were used in the project development:
 
-### Code Splitting
+### **Menu**  ([ReactJS](https://reactjs.org/) + [Framer Motion](https://www.framer.com/motion/) + [styled-components](https://styled-components.com/))
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-   **[framer-motion](https://www.framer.com/motion/)**
+-   **[styled-components](https://styled-components.com/)**
+-   **[styled-icons](https://styled-icons.js.org/)**
 
-### Analyzing the Bundle Size
+</br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## :raising_hand_man: Developer
 
-### Making a Progressive Web App
+<a href="https://github.com/ViniciusResende">
+ 	<img src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1613257612/foto_perfil_rounded_mv1cpi.png" width="100px;" alt=""/>
+ <br />
+ 	<b>Vinícius Alves</b></a> <a href="https://github.com/ViniciusResende" title="Vinícius Alves"></a>
+ <br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
